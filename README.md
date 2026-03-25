@@ -1,6 +1,6 @@
 # ByPass ProAlts
 
-Script en python para bypassear anuncions a la hora de generar cuentas de NordVPN
+Script en python para bypassear anuncios a la hora de generar cuentas de NordVPN
 
 ## Requisitos
 
